@@ -270,5 +270,21 @@
     "tasaEnvRaw": "920",
     "tasaCompRaw": "957.08",
     "comRaw": "27.60"
+  },
+  {
+    "id": "38420d3f-9d95-46ca-8001-cc6e0f5af9c8",
+    "createdAt": 1789168514887,
+    "fecha": "2026-09-10",
+    "nombre": "TOMAS",
+    "tipo": "Transferencia",
+    "comp": "33180849",
+    "usd": 55,
+    "tasaEnvio": 915,
+    "tasaCompra": 950,
+    "com": 0,
+    "usdRaw": "55",
+    "tasaEnvRaw": "915",
+    "tasaCompRaw": "950",
+    "comRaw": "0"
   }
 ]
