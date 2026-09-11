@@ -46,5 +46,21 @@
     "tasaEnvRaw": "925",
     "tasaCompRaw": "962.12",
     "comRaw": "0"
+  },
+  {
+    "id": "dacf93db-bb8a-4fd0-9eb0-5410c3c98351",
+    "createdAt": 1789107628170,
+    "fecha": "2026-09-08",
+    "nombre": "CARLOS",
+    "tipo": "Transferencia",
+    "comp": "47113173",
+    "usd": 57.7,
+    "tasaEnvio": 925,
+    "tasaCompra": 962.12,
+    "com": 0,
+    "usdRaw": "57.70",
+    "tasaEnvRaw": "925",
+    "tasaCompRaw": "962.12",
+    "comRaw": "0"
   }
 ]
