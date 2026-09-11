@@ -190,5 +190,21 @@
     "tasaEnvRaw": "910",
     "tasaCompRaw": "950",
     "comRaw": "0"
+  },
+  {
+    "id": "4f29e083-bc36-417e-be41-c16560004265",
+    "createdAt": 1789168188623,
+    "fecha": "2026-09-10",
+    "nombre": "SOLE",
+    "tipo": "Transferencia",
+    "comp": "69302027",
+    "usd": 5,
+    "tasaEnvio": 910,
+    "tasaCompra": 950,
+    "com": 0,
+    "usdRaw": "5",
+    "tasaEnvRaw": "910",
+    "tasaCompRaw": "950",
+    "comRaw": "0"
   }
 ]
