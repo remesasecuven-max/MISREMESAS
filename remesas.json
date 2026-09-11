@@ -142,5 +142,21 @@
     "tasaEnvRaw": "925",
     "tasaCompRaw": "957.08",
     "comRaw": "138.75"
+  },
+  {
+    "id": "7afd2e7a-9d7b-4d44-8622-24a6b1036424",
+    "createdAt": 1789167969530,
+    "fecha": "2026-09-09",
+    "nombre": "CARLOS",
+    "tipo": "Efectivo",
+    "comp": "EF",
+    "usd": 174.47,
+    "tasaEnvio": 930,
+    "tasaCompra": 957.08,
+    "com": 0,
+    "usdRaw": "174.47",
+    "tasaEnvRaw": "930",
+    "tasaCompRaw": "957.08",
+    "comRaw": "0"
   }
 ]
