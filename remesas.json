@@ -110,5 +110,21 @@
     "tasaEnvRaw": "910",
     "tasaCompRaw": "957.08",
     "comRaw": "0"
+  },
+  {
+    "id": "4a8d4d1c-9ea0-4228-b771-5cc3d450534b",
+    "createdAt": 1789167620571,
+    "fecha": "2026-09-10",
+    "nombre": "GENESIS",
+    "tipo": "Transferencia",
+    "comp": "58068024",
+    "usd": 16,
+    "tasaEnvio": 910,
+    "tasaCompra": 957.08,
+    "com": 0,
+    "usdRaw": "16",
+    "tasaEnvRaw": "910",
+    "tasaCompRaw": "957.08",
+    "comRaw": "0"
   }
 ]
