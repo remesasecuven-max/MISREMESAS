@@ -126,5 +126,21 @@
     "tasaEnvRaw": "910",
     "tasaCompRaw": "957.08",
     "comRaw": "0"
+  },
+  {
+    "id": "0da73e25-08d9-473d-a57a-1cf7f223e9e6",
+    "createdAt": 1789167788758,
+    "fecha": "2026-09-09",
+    "nombre": "ORLANDO",
+    "tipo": "Depósito",
+    "comp": "028596",
+    "usd": 50,
+    "tasaEnvio": 925,
+    "tasaCompra": 957.08,
+    "com": 138.75,
+    "usdRaw": "50",
+    "tasaEnvRaw": "925",
+    "tasaCompRaw": "957.08",
+    "comRaw": "138.75"
   }
 ]
