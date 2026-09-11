@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "c2072061-5138-494d-94e1-82984583fc01",
+    "createdAt": 1789107140356,
+    "fecha": "2026-09-08",
+    "nombre": "JAVIER",
+    "tipo": "Transferencia",
+    "comp": "53013048",
+    "usd": 20,
+    "tasaEnvio": 925,
+    "tasaCompra": 962.12,
+    "com": 55.5,
+    "usdRaw": "20",
+    "tasaEnvRaw": "925",
+    "tasaCompRaw": "962.12",
+    "comRaw": "55.50"
+  }
+]
