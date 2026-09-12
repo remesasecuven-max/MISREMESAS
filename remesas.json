@@ -350,5 +350,21 @@
     "tasaEnvRaw": "910",
     "tasaCompRaw": "952.71",
     "comRaw": "0"
+  },
+  {
+    "id": "734319ec-721e-4461-bb13-56ce4160870d",
+    "createdAt": 1789187043043,
+    "fecha": "2026-09-11",
+    "nombre": "JP",
+    "tipo": "Depósito",
+    "comp": "029840",
+    "usd": 15,
+    "tasaEnvio": 910,
+    "tasaCompra": 952.71,
+    "com": 0,
+    "usdRaw": "15",
+    "tasaEnvRaw": "910",
+    "tasaCompRaw": "952.71",
+    "comRaw": "0"
   }
 ]
