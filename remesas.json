@@ -334,5 +334,21 @@
     "tasaEnvRaw": "910",
     "tasaCompRaw": "952.71",
     "comRaw": "0"
+  },
+  {
+    "id": "032a0d13-78d3-44db-b542-c7f61194a8df",
+    "createdAt": 1789186984605,
+    "fecha": "2026-09-12",
+    "nombre": "JOHANNA",
+    "tipo": "Transferencia",
+    "comp": "31368189",
+    "usd": 250,
+    "tasaEnvio": 910,
+    "tasaCompra": 952.71,
+    "com": 0,
+    "usdRaw": "250",
+    "tasaEnvRaw": "910",
+    "tasaCompRaw": "952.71",
+    "comRaw": "0"
   }
 ]
