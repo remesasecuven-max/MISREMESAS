@@ -302,5 +302,21 @@
     "tasaEnvRaw": "910",
     "tasaCompRaw": "950",
     "comRaw": "0"
+  },
+  {
+    "id": "1cdf2d72-622f-4071-9eeb-25fba5289387",
+    "createdAt": 1789186886332,
+    "fecha": "2026-09-11",
+    "nombre": "YONAYKER",
+    "tipo": "Transferencia",
+    "comp": "27311263",
+    "usd": 24,
+    "tasaEnvio": 910,
+    "tasaCompra": 952.71,
+    "com": 0,
+    "usdRaw": "24",
+    "tasaEnvRaw": "910",
+    "tasaCompRaw": "952.71",
+    "comRaw": "0"
   }
 ]
