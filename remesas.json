@@ -382,5 +382,21 @@
     "tasaEnvRaw": "910",
     "tasaCompRaw": "952.71",
     "comRaw": "0"
+  },
+  {
+    "id": "d6e299f0-5e83-483a-96ad-87751bc9fc56",
+    "createdAt": 1789187158461,
+    "fecha": "2026-09-11",
+    "nombre": "ANGEL",
+    "tipo": "Depósito",
+    "comp": "190762",
+    "usd": 20,
+    "tasaEnvio": 910,
+    "tasaCompra": 952.71,
+    "com": 54.6,
+    "usdRaw": "20",
+    "tasaEnvRaw": "910",
+    "tasaCompRaw": "952.71",
+    "comRaw": "54.60"
   }
 ]
