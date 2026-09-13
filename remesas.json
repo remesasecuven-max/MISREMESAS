@@ -446,5 +446,21 @@
     "tasaEnvRaw": "910",
     "tasaCompRaw": "951.62",
     "comRaw": "0"
+  },
+  {
+    "id": "bb76bfe4-fd3d-41d2-aae0-2b6960695cdd",
+    "createdAt": 1789271950790,
+    "fecha": "2026-09-12",
+    "nombre": "MICAELA",
+    "tipo": "Transferencia",
+    "comp": "36516591",
+    "usd": 20,
+    "tasaEnvio": 910,
+    "tasaCompra": 951.62,
+    "com": 54.6,
+    "usdRaw": "20",
+    "tasaEnvRaw": "910",
+    "tasaCompRaw": "951.62",
+    "comRaw": "54.60"
   }
 ]
