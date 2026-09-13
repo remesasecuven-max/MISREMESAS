@@ -510,5 +510,21 @@
     "tasaEnvRaw": "910",
     "tasaCompRaw": "951.62",
     "comRaw": "0"
+  },
+  {
+    "id": "fe6e44ab-9af6-4478-a2c6-b47c9478ea77",
+    "createdAt": 1789272350992,
+    "fecha": "2026-09-12",
+    "nombre": "ANGEL",
+    "tipo": "Transferencia",
+    "comp": "43665274",
+    "usd": 250,
+    "tasaEnvio": 920,
+    "tasaCompra": 951.62,
+    "com": 690,
+    "usdRaw": "250",
+    "tasaEnvRaw": "920",
+    "tasaCompRaw": "951.62",
+    "comRaw": "690"
   }
 ]
