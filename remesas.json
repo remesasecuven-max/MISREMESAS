@@ -526,5 +526,21 @@
     "tasaEnvRaw": "920",
     "tasaCompRaw": "951.62",
     "comRaw": "690"
+  },
+  {
+    "id": "7d585ece-ef7b-4d1f-ba46-58a40c8f3c93",
+    "createdAt": 1789272414403,
+    "fecha": "2026-09-12",
+    "nombre": "CARLOS",
+    "tipo": "Depósito",
+    "comp": "030568",
+    "usd": 18.52,
+    "tasaEnvio": 910,
+    "tasaCompra": 951.62,
+    "com": 0,
+    "usdRaw": "18.52",
+    "tasaEnvRaw": "910",
+    "tasaCompRaw": "951.62",
+    "comRaw": "0"
   }
 ]
