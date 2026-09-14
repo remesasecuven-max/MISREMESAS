@@ -574,5 +574,21 @@
     "tasaEnvRaw": "880",
     "tasaCompRaw": "952.44",
     "comRaw": "66"
+  },
+  {
+    "id": "e7421c41-64ba-4028-bbb0-d0adf80ca7a3",
+    "createdAt": 1789356932723,
+    "fecha": "2026-09-13",
+    "nombre": "ZUANDRY",
+    "tipo": "Transferencia",
+    "comp": "69887525",
+    "usd": 20,
+    "tasaEnvio": 910,
+    "tasaCompra": 952.44,
+    "com": 0,
+    "usdRaw": "20",
+    "tasaEnvRaw": "910",
+    "tasaCompRaw": "952.44",
+    "comRaw": "0"
   }
 ]
