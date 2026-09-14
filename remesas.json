@@ -590,5 +590,21 @@
     "tasaEnvRaw": "910",
     "tasaCompRaw": "952.44",
     "comRaw": "0"
+  },
+  {
+    "id": "c68fa1a9-89b8-4153-a01c-799ea9d7aeb4",
+    "createdAt": 1789357021202,
+    "fecha": "2026-09-13",
+    "nombre": "YOHAN",
+    "tipo": "Depósito",
+    "comp": "5256",
+    "usd": 200,
+    "tasaEnvio": 920,
+    "tasaCompra": 952.44,
+    "com": 0,
+    "usdRaw": "200",
+    "tasaEnvRaw": "920",
+    "tasaCompRaw": "952.44",
+    "comRaw": "0"
   }
 ]
