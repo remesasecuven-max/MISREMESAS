@@ -558,5 +558,21 @@
     "tasaEnvRaw": "910",
     "tasaCompRaw": "952.44",
     "comRaw": "0"
+  },
+  {
+    "id": "6706e5a4-0f64-41f8-8118-dc13f4c65b23",
+    "createdAt": 1789356865629,
+    "fecha": "2026-09-13",
+    "nombre": "DARMAYRIZ",
+    "tipo": "Transferencia",
+    "comp": "0000",
+    "usd": 25,
+    "tasaEnvio": 880,
+    "tasaCompra": 952.44,
+    "com": 66,
+    "usdRaw": "25",
+    "tasaEnvRaw": "880",
+    "tasaCompRaw": "952.44",
+    "comRaw": "66"
   }
 ]
