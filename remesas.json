@@ -622,5 +622,21 @@
     "tasaEnvRaw": "910",
     "tasaCompRaw": "948.51",
     "comRaw": "27.30"
+  },
+  {
+    "id": "bc9771c5-aa62-45ac-b0f6-db374c4c1858",
+    "createdAt": 1789492946184,
+    "fecha": "2026-09-14",
+    "nombre": "ANYELINA",
+    "tipo": "Transferencia",
+    "comp": "134045565",
+    "usd": 100,
+    "tasaEnvio": 920,
+    "tasaCompra": 948.51,
+    "com": 0,
+    "usdRaw": "100",
+    "tasaEnvRaw": "920",
+    "tasaCompRaw": "948.51",
+    "comRaw": "0"
   }
 ]
