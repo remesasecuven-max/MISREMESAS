@@ -686,5 +686,21 @@
     "tasaEnvRaw": "910",
     "tasaCompRaw": "948.51",
     "comRaw": "136.50"
+  },
+  {
+    "id": "df10844b-860c-4ae8-aa5f-26b10b3bd207",
+    "createdAt": 1789493284390,
+    "fecha": "2026-09-14",
+    "nombre": "BETHSY",
+    "tipo": "Transferencia",
+    "comp": "0008022316",
+    "usd": 18,
+    "tasaEnvio": 910,
+    "tasaCompra": 948.51,
+    "com": 0,
+    "usdRaw": "18",
+    "tasaEnvRaw": "910",
+    "tasaCompRaw": "948.51",
+    "comRaw": "0"
   }
 ]
