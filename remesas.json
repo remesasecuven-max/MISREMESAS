@@ -638,5 +638,21 @@
     "tasaEnvRaw": "920",
     "tasaCompRaw": "948.51",
     "comRaw": "0"
+  },
+  {
+    "id": "266ee033-e889-49d2-8d9e-10154cb2c90d",
+    "createdAt": 1789493019224,
+    "fecha": "2026-09-14",
+    "nombre": "YARI",
+    "tipo": "Transferencia",
+    "comp": "0005045506",
+    "usd": 350.79,
+    "tasaEnvio": 910,
+    "tasaCompra": 948.51,
+    "com": 0,
+    "usdRaw": "350.79",
+    "tasaEnvRaw": "910",
+    "tasaCompRaw": "948.51",
+    "comRaw": "0"
   }
 ]
