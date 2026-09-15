@@ -654,5 +654,21 @@
     "tasaEnvRaw": "910",
     "tasaCompRaw": "948.51",
     "comRaw": "0"
+  },
+  {
+    "id": "fc8d6a42-80f3-4325-8328-0258cb1c765b",
+    "createdAt": 1789493168475,
+    "fecha": "2026-09-14",
+    "nombre": "JONATHAN",
+    "tipo": "Depósito",
+    "comp": "0409",
+    "usd": 130,
+    "tasaEnvio": 915,
+    "tasaCompra": 948.51,
+    "com": 0,
+    "usdRaw": "130",
+    "tasaEnvRaw": "915",
+    "tasaCompRaw": "948.51",
+    "comRaw": "0"
   }
 ]
