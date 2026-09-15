@@ -702,5 +702,21 @@
     "tasaEnvRaw": "910",
     "tasaCompRaw": "948.51",
     "comRaw": "0"
+  },
+  {
+    "id": "737047ee-5348-499b-9fd7-e686b6ae0fc7",
+    "createdAt": 1789493366681,
+    "fecha": "2026-09-14",
+    "nombre": "JAVIER",
+    "tipo": "Transferencia",
+    "comp": "145535391",
+    "usd": 100,
+    "tasaEnvio": 920,
+    "tasaCompra": 948.51,
+    "com": 276,
+    "usdRaw": "100",
+    "tasaEnvRaw": "920",
+    "tasaCompRaw": "948.51",
+    "comRaw": "276"
   }
 ]
