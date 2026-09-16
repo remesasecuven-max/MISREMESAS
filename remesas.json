@@ -814,5 +814,21 @@
     "tasaEnvRaw": "900",
     "tasaCompRaw": "943.69",
     "comRaw": "0"
+  },
+  {
+    "id": "12f19232-590b-4835-ad54-a96ce8ed0d74",
+    "createdAt": 1789528549455,
+    "fecha": "2026-09-15",
+    "nombre": "SRA ARIA",
+    "tipo": "Efectivo",
+    "comp": "WESTER",
+    "usd": 20,
+    "tasaEnvio": 905,
+    "tasaCompra": 943.69,
+    "com": 54.3,
+    "usdRaw": "20",
+    "tasaEnvRaw": "905",
+    "tasaCompRaw": "943.69",
+    "comRaw": "54.30"
   }
 ]
