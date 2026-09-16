@@ -846,5 +846,21 @@
     "tasaEnvRaw": "900",
     "tasaCompRaw": "943.69",
     "comRaw": "0"
+  },
+  {
+    "id": "0bba86b5-f982-4058-83c4-0da3fb6c875c",
+    "createdAt": 1789528652398,
+    "fecha": "2026-09-15",
+    "nombre": "CARLOS",
+    "tipo": "Transferencia",
+    "comp": "YAPAGO",
+    "usd": 17.28,
+    "tasaEnvio": 900,
+    "tasaCompra": 943.69,
+    "com": 0,
+    "usdRaw": "17.28",
+    "tasaEnvRaw": "900",
+    "tasaCompRaw": "943.69",
+    "comRaw": "0"
   }
 ]
