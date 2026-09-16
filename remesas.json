@@ -782,5 +782,21 @@
     "tasaEnvRaw": "900",
     "tasaCompRaw": "943.69",
     "comRaw": "0"
+  },
+  {
+    "id": "4fe56938-5038-4ffe-989b-45e0530194ec",
+    "createdAt": 1789528376319,
+    "fecha": "2026-09-15",
+    "nombre": "GRUPO",
+    "tipo": "Transferencia",
+    "comp": "75585229",
+    "usd": 230,
+    "tasaEnvio": 910,
+    "tasaCompra": 943.69,
+    "com": 0,
+    "usdRaw": "230",
+    "tasaEnvRaw": "910",
+    "tasaCompRaw": "943.69",
+    "comRaw": "0"
   }
 ]
